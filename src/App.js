@@ -16,10 +16,10 @@ export default function App() {
               <Link to="/">Home</Link>
             </li>
             <li>
-              <Link to="/about">About</Link>
+              <Link to="/about">About1</Link>
             </li>
             <li>
-              <Link to="/users">Users</Link>
+              <Link to="/users">Users2</Link>
             </li>
           </ul>
         </nav>
